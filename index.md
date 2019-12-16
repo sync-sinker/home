@@ -1,4 +1,3 @@
-# sync-sinker's Repository
 
 ## これはなに？
 
