@@ -15,6 +15,7 @@
 ## 更新履歴
 
 |Date|Detail|
+|:---|:-----|
 |2019.12.16|GitHub Pages お試し公開|
 
 ## Repository(Coming Soon)
@@ -25,9 +26,9 @@
 ## Link
 
 * SS
- * [pixiv](https://www.pixiv.net/member.php?id=1289338)
- * [Tumblr](https://fuzzypsychedelicsyrup.tumblr.com/)
+  * [pixiv](https://www.pixiv.net/member.php?id=1289338)
+  * [Tumblr](https://fuzzypsychedelicsyrup.tumblr.com/)
 * Tech
- * [Qiita](https://qiita.com/sync_sinker)
+  * [Qiita](https://qiita.com/sync_sinker)
 
 
